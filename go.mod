@@ -1,4 +1,4 @@
-module github.com/andrerampanelli1/fc2-grpc-go
+module github.com/andrerampanelli/golang-protobuf-grpc
 
 go 1.16
 
