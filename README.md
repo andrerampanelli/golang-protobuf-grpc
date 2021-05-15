@@ -1,5 +1,4 @@
-# golang-protobuf-grpc
-
+# gRPC using Protobuf for User service in GOlang
 ## RUN server
 
 ```
